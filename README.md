@@ -6,7 +6,7 @@ F-Tool est une application Windows dédiée aux joueurs de **DOFUS**. Elle compa
 
 Son interface rassemble les prix de votre serveur, les illustrations des objets et le budget des équipements à acheter.
 
-![Accueil de F-Tool](<img width="2557" height="1357" alt="Capture d&#39;écran 2026-10-07 221534" src="https://github.com/user-attachments/assets/0e884afb-999d-450b-bc37-6a02dc67a910" />)
+<img width="2557" height="1357" alt="accueil" src="https://github.com/user-attachments/assets/d8a010f3-5915-4b9d-b99b-e828976d6e0e" />
 
 ## Fonctionnalités
 
@@ -57,7 +57,7 @@ F-Tool recherche des équipements dont les caractéristiques naturelles permette
 
 Les changements suivent le **niveau réel des objets**, avec des étapes rapprochées au début et un écart maximal de **15 niveaux entre deux équipements**. La dernière pièce peut être conservée jusqu’au niveau 200 : un équipement de niveau 185 peut ainsi éviter un achat supplémentaire en fin de parcours.
 
-![Exemple de parcours Cordomage](<img width="2555" height="1353" alt="Capture d&#39;écran 2026-10-07 221614" src="https://github.com/user-attachments/assets/83704f4c-bc43-4421-b8b8-b5898287b83b" />)
+<img width="2555" height="1353" alt="show_costu" src="https://github.com/user-attachments/assets/ffc19c08-aa93-429f-930a-7a7b6f029176" />
 
 *Les captures présentent des données de démonstration. Les prix et les objets proposés varient selon le serveur, les prix renseignés et la rune choisie.*
 
